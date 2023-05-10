@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Justin Mound</h1>
 <h3 align="center">Cloud infrastructure architect, a lifelong learner, and a proud dad</h3>
 
