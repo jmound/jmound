@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Mound</h1>
-<h3 align="center">Cloud infrastructure architect, a lifelong learner, and a proud dad</h3>
+<h3 align="center">Cloud infrastructure architect, automation engineer, kiteboarder</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
